@@ -3,7 +3,6 @@
 the other day i needed to verify my download to ensure it was not tampered with during transit, a common way to do this is to use `gpg` to verify the download using the pgp certificate and download signature.
 
 ## Step 1: import the certificate
-### Step 1: import the certificate
 
 the website where you downloded the package should come with a download signature and an OpenPGP certificate. you can import the certificate like so:
 

@@ -7,8 +7,6 @@ theme:
   analytics: {gtag: 'G-274394082'}
   highlightjs: true
 markdown_extensions:
-  - toc:
-      permalink: 
   - attr_list
   - def_list
   - tables
