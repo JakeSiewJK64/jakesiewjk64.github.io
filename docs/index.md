@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+![Visitors counter](https://api.visitorbadge.io/api/VisitorHit?user=JakeSiewJK64&repo=github-visitors-badge&countColor=%237B1E7A)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Home
 
-## Commands
+Hello, welcome to my website. This website is mainly for me to share knowledge to friends, families, to my future self even, also to showcase my projects and experiences in my journey not just in software, but life as well. Enjoy your stay.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+|         |                                                                    |
+| ------- | ------------------------------------------------------------------ |
+| Email   | joekanesiew@outlook.com                                            |
+| Itch.io | [https://jakesiewjk64.itch.io/](https://jakesiewjk64.itch.io/)     |
+| GitHub  | [https://github.com/JakeSiewJK64](https://github.com/JakeSiewJK64) |
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Berkhidmat Untuk Negara! / マレイジャの為！ 💪💪💪
